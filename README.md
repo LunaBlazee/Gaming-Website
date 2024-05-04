@@ -1,6 +1,6 @@
 # Gaming-Website
 
-Live Demo: 
+Live Demo: https://lunablazee.github.io/Gaming-Website/
 
 
 ![gamics1](https://github.com/LunaBlazee/Gaming-Website/assets/162085668/1565a69a-efd8-4ca3-a957-e72eac11fd61)
